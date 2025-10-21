@@ -4,3 +4,5 @@ I am Arek and this is my repository made for the assignment received at the univ
 
 ## My First Edit in Codespaces
 This text was written and committed from GitHub Codespaces.
+
+![Alt text](./CodespaceImage.png)
